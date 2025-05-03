@@ -1,10 +1,10 @@
-# Hi there, I'm Aline Uwera 👋🏾
+# Hi there, I'm Abdul 👋🏾
 
-<img align="right" width="300" src="profile.avif" alt="Coding illustration">
+<img align="right" width="300" src="profile.avif" alt="Coding">
 
 I'm a passionate and results-oriented Full-Stack Software Engineer based in the vibrant tech hub of Kigali, Rwanda 🇷🇼. I specialize in building robust, scalable, and user-friendly web applications.
 
-With **[Number, e.g., 5+]** years of experience, I thrive on solving complex problems and translating ideas into tangible digital solutions. I'm proficient in both front-end and back-end development, always eager to learn new technologies and improve my craft.
+With 3 years of experience, I thrive on solving complex problems and translating ideas into tangible digital solutions. I'm proficient in both front-end and back-end development, always eager to learn new technologies and improve my craft.
 
 ---
 
@@ -72,26 +72,8 @@ With **[Number, e.g., 5+]** years of experience, I thrive on solving complex pro
 </p>
 ---
 
-### ✨ Highlighted Projects
 
-*(Make sure these align with your Pinned Repositories)*
-
-1.  **[Project Name 1 (e.g., E-commerce Platform)](https://github.com/aline-uwera/e-commerce-platform-django)**
-    * **Description:** A full-stack e-commerce application featuring product catalogs, user authentication, shopping cart, and payment integration (Stripe).
-    * **Tech:** Django, PostgreSQL, Celery, Redis, React (for potential future frontend), Stripe API.
-    * **Learnings:** Deepened understanding of complex database modeling, background task processing, and secure payment handling.
-
-2.  **[Project Name 2 (e.g., Kigali Local Events API)](https://github.com/aline-uwera/kigali-events-api)**
-    * **Description:** A RESTful API providing data on upcoming local events, meetups, and workshops in Kigali. Includes endpoints for filtering by date, category, and location.
-    * **Tech:** Flask, SQLAlchemy, PostgreSQL, Docker, Deployed on AWS EC2/Heroku.
-    * **Learnings:** API design principles (REST), containerization with Docker, and cloud deployment basics.
-
-3.  **[Project Name 3 (e.g., Interactive Dashboard)](https://github.com/aline-uwera/react-dashboard-app)**
-    * **Description:** A front-end dashboard application displaying data visualizations using Chart.js, fetching data from a custom Node.js backend.
-    * **Tech:** React, Redux (or Context API), Chart.js, Node.js, Express, MongoDB.
-    * **Learnings:** State management in React, creating interactive UIs, integrating front-end with back-end APIs.
-
-➡️ *Check out my [Portfolio](https://alineuwera-portfolio.dev) for more projects and details!*
+➡️ *Check out my [[Portfolio](https://alineuwera-portfolio.dev](https://github.com/Aaazeeez360/Aaazeeez360)) for more projects and details!*
 
 ---
 
@@ -100,7 +82,7 @@ With **[Number, e.g., 5+]** years of experience, I thrive on solving complex pro
 I'm always open to connecting with fellow developers, discussing potential projects, or exploring exciting opportunities!
 
 * **LinkedIn:** [linkedin.com/in/alineuwera](https://linkedin.com/in/alineuwera) (Primary Professional Contact)
-* **Email:** `aline.uwera.dev [at] email.com` (Professional Email)
-* **Portfolio:** [alineuwera-portfolio.dev](https://alineuwera-portfolio.dev)
+* **Email:** `3play18@gmail.com` (Professional Email)
+* **Portfolio:** [Aaazeeez360](https://github.com/Aaazeeez360/Aaazeeez360)
 
 Let's build something amazing together! ✨
