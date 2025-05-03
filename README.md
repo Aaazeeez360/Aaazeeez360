@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="profile.avif" alt="Coding">
 
-I'm a passionate and results-oriented Full-Stack Software Engineer based in the vibrant tech hub of Kigali, Rwanda 🇷🇼. I specialize in building robust, scalable, and user-friendly web applications.
+I'm a passionate and results-oriented Full-Stack Software Engineer based in the Nigeria. I specialize in building robust, scalable, and user-friendly web applications.
 
 With 3 years of experience, I thrive on solving complex problems and translating ideas into tangible digital solutions. I'm proficient in both front-end and back-end development, always eager to learn new technologies and improve my craft.
 
@@ -70,10 +70,6 @@ With 3 years of experience, I thrive on solving complex problems and translating
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aline-uwera&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-uwera&layout=compact&langs_count=8&theme=radical"/>
 </p>
----
-
-
-➡️ *Check out my [[Portfolio](https://alineuwera-portfolio.dev](https://github.com/Aaazeeez360/Aaazeeez360)) for more projects and details!*
 
 ---
 
@@ -81,7 +77,6 @@ With 3 years of experience, I thrive on solving complex problems and translating
 
 I'm always open to connecting with fellow developers, discussing potential projects, or exploring exciting opportunities!
 
-* **LinkedIn:** [linkedin.com/in/alineuwera](https://linkedin.com/in/alineuwera) (Primary Professional Contact)
 * **Email:** `3play18@gmail.com` (Professional Email)
 * **Portfolio:** [Aaazeeez360](https://github.com/Aaazeeez360/Aaazeeez360)
 
