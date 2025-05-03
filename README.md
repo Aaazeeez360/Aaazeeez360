@@ -1,6 +1,6 @@
 # Hi there, I'm Aline Uwera 👋🏾
 
-<img align="right" width="300" src="[URL_TO_A_NICE_CODING_RELATED_GIF_OR_STATIC_IMAGE]" alt="Coding illustration">
+<img align="right" width="300" src="profile.avif" alt="Coding illustration">
 
 I'm a passionate and results-oriented Full-Stack Software Engineer based in the vibrant tech hub of Kigali, Rwanda 🇷🇼. I specialize in building robust, scalable, and user-friendly web applications.
 
